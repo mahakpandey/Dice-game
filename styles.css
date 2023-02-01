@@ -1,0 +1,73 @@
+.container {
+  width: 70% 150%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #19282F;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Source Serif Pro', serif;
+  text-shadow: 5px 0 #232931;
+  font-size: 4rem;
+  color: #D3ECA7;
+}
+
+p {
+  font-size: 2rem;
+  color: #D3ECA7;
+  font-family: 'Nunito Sans', sans-serif;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #DADBBD;
+  text-align: center;
+  font-family: 'Nunito Sans', sans-serif;
+
+}
+
+.button{
+  padding: 5%;
+  text-align: center;
+}
+
+.btn {
+  background: #DADBBD;
+  background-image: -webkit-linear-gradient(top, #DADBBD, #D3ECA7);
+  background-image: -moz-linear-gradient(top, #DADBBD, #D3ECA7);
+  background-image: -ms-linear-gradient(top, #DADBBD, #D3ECA7);
+  background-image: -o-linear-gradient(top, #DADBBD, #D3ECA7);
+  background-image: linear-gradient(to bottom, #DADBBD, #D3ECA7);
+  -webkit-border-radius: 21;
+  -moz-border-radius: 21;
+  border-radius: 21px;
+  font-family: Georgia;
+  color: #232931;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn-hover {
+  background: #D3ECA7;
+  background-image: -webkit-linear-gradient(top, #D3ECA7, #D3ECA7);
+  background-image: -moz-linear-gradient(top, #D3ECA7, #D3ECA7);
+  background-image: -ms-linear-gradient(top, #D3ECA7, #D3ECA7);
+  background-image: -o-linear-gradient(top, #D3ECA7, #D3ECA7);
+  background-image: linear-gradient(to bottom, #D3ECA7, #D3ECA7);
+  text-decoration: none;
+}
